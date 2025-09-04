@@ -24,7 +24,7 @@ Driven by a passion for AI in healthcare, computational biology, and NLP, I arch
 - Implemented Retrieval-Augmented Generation (RAG) with Pinecone, enabling sub-second retrieval latency for 1M+ medical documents.
 - Designed and maintained AWS microservices (Lambda, API Gateway, EC2), achieving 99.9% uptime.
 
-> **Note:** Most of my work at HealthGPT involved confidential projects. As a result, the repositories for these are not publicly accessible. If you would like to know more about my experience, feel free to connect!
+> **Note:** Most of my work at HealthGPT, CSIR-IITR, and Enterprise Case Management for NIC was performed confidentially for government projects. As a result, the repositories and further details of these works are not publicly accessible. If you would like to know more about my experience, feel free to connect!
 
 ---
 
